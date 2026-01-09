@@ -1,0 +1,5 @@
+glove.6B.50d.txt
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.pkl
